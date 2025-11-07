@@ -1,0 +1,62 @@
+---
+title: Annual Review 2024
+date: '2024-12-22'
+image: featured.jpg
+author: "Our research group"
+categories: ["News"]
+---
+
+# A heartfelt thank you!
+
+We would like to sincerely thank all study participants who were part of our research this year. Your commitment has made a valuable contribution to the advancement of scientific knowledge.
+
+Again this year we published our results with great care in renowned, peer‑reviewed journals. You can find an overview of our publications at the following [link](https://pubmed.ncbi.nlm.nih.gov/?term=%28%28%28Maximilian+Pfau%5BAuthor%5D%29+OR+%28Kristina+Pfau%5BAuthor%5D%29+OR+%28Kristina+Hess%5BAuthor%5D%29%29%29+AND+%28%28%222024%2F01%2F01%22%5BDate+-+Publication%5D+%3A+%222024%2F12%2F31%22%5BDate+-+Publication%5D%29%29).
+
+Below we present a **summary of our three most important works from 2024**.
+
+We look forward to welcoming you again in our studies next year and are available to answer any questions at any time.
+
+**We wish you Merry Christmas and a successful New Year!**
+
+*Maximilian Pfau, Kristina Pfau (née Hess)*
+
+---
+
+## Our three most important publications in 2024
+
+### 1. Most comprehensive review of Pseudoxanthoma elasticum
+> **Pfau, K., Lengyel, I., Ossewaarde‑van Norel, J., van Leeuwen, R., Risseeuw, S., Leftheriotis, G., Scholl, H. P. N., Feltgen, N., Holz, F. G., & Pfau, M.** (2024). *Pseudoxanthoma elasticum – Genetics, pathophysiology, and clinical presentation*. *Progress in Retinal and Eye Research*, 101274. <https://doi.org/10.1016/j.preteyeres.2024.101274>
+
+**Background:** PXE is a rare autosomal recessive multisystem disorder. This work provides a comprehensive overview of the genetics, pathophysiology and clinical presentation of PXE.
+
+**Innovation:** The study highlights the current state of knowledge on PXE and particularly addresses the role of *ABCC6* mutations and their impact on the calcification of elastic fibres in various organ systems.
+
+**Significance:** This work provides a valuable resource for researchers and clinicians dealing with PXE and represents a milestone in the literature on this complex disease.
+
+---
+
+### 2. Largest normative data set for fundus‑controlled visual field testing
+> **Pfau, M., Jolly, J. K., Charng, J., von der Emde, L., Müller, P. L., Ansari, G., Pfau, K., Chen, F. K., & Wu, Z.** (2024). *Multicenter Normative Data for Mesopic Microperimetry*. *Investigative Ophthalmology & Visual Science*, 65(12), 27. <https://doi.org/10.1167/iovs.65.12.27>
+
+**Background:** The aim of this study was to create a large, multicentre normative dataset for MAIA microperimetry and to compare predictive models.
+
+**Innovation:** The analysis used innovative statistical methods to explain the normal variability of visual sensitivity and to develop user‑friendly models for clinical applications.
+
+**Significance:** This dataset is an indispensable reference for the interpretation of test results and provides an essential contribution to the standardisation and improvement of clinical diagnoses.
+
+---
+
+### 3. Need for anti‑VEGF therapy in Pseudoxanthoma elasticum
+> **Raming, K., Pfau, M., Herrmann, P., Holz, F. G., & Pfau, K.** (2024). *Anti‑VEGF Treatment for Secondary Neovascularization in Pseudoxanthoma Elasticum*. *American Journal of Ophthalmology*, 253, 101‑110. <https://doi.org/10.1016/j.ajo.2024.03.026>
+
+**Background:** This retrospective cohort study investigated the treatment needs and outcomes in patients with PXE who suffer from secondary choroidal neovascularisation (CNV).
+
+**Innovation:** The work shows that PXE patients require intensive anti‑VEGF therapies already at a young age and highlights important predictors for therapy success.
+
+**Significance:** The results underline the need for early intervention and provide insights for the development of durable therapeutics.
+
+---
+
+## Summary
+
+We look back on a year of significant scientific progress and look forward to the challenges and opportunities that the coming year will bring. We wish you a relaxing holiday season and a successful year 2025. If you have any questions or are interested in our studies, please do not hesitate to contact us.

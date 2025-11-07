@@ -1,0 +1,44 @@
+---
+title: Kristina Pfau (née Hess)
+description: Department of Ophthalmology, University of Bonn
+categories: "K. Pfau" 
+image: pfau_kristina.jpg
+about:
+  template: trestles
+  links:
+  - icon: graduation-cap
+    text: Google Scholar
+    href: https://scholar.google.com/citations?user=DTr4tK8AAAAJ
+  - icon: linkedin
+    text: Linkedin
+    href: https://de.linkedin.com/in/kristina-hess-4b0b93217
+---
+
+Kristina Pfau (née Hess) is a clinician-scientist specializing in inherited retinal diseases (IRDs) and degenerative conditions such as age-related macular degeneration (AMD). During medical school and early in her residency in Bonn, Germany, she focused her research on the morphological and functional impact of Bruch’s membrane pathology, including studies on Pseudoxanthoma Elasticum (PXE) and Sorsby Fundus Dystrophy (SFD). For her doctoral thesis on dark adaptation in PXE, Dr. Pfau received the Hermann-Wacker Thesis Award from the German Ophthalmological Society (DOG).
+
+Building on her experience with monogenic retinal diseases, Dr. Pfau completed postdoctoral training at the National Eye Institute (NIH, USA) under the supervision of Dr. Catherine Cukras. Her project on longitudinal assessment in AMD was supported by a Walter Benjamin Fellowship from the German Research Foundation (DFG).
+
+Kristina Pfau is now a senior consultant at the Department of Ophthalmology, University of Bonn, Germany. Her primary research goal is to address key challenges in clinical trials for Bruch’s membrane diseases and to initiate interventional studies for PXE.
+
+## Education
+
+University of Basel | Basel, Switzerland  
+Cataract and Vitreoretinal Fellowship | 2023 – 2025  
+
+University of Bonn | Bonn, Germany  
+Habilitation (Privatdozentin) | 2023  
+
+National Eye Institute | Bethesda, USA  
+Postdoctoral Fellowship | 2021 – 2022  
+
+Save Sight Institute | Sydney, Australia  
+Short-Term Fellowship | 2018  
+
+University of Bonn | Bonn, Germany  
+Ophthalmology Residency | 2017 – 2022  
+
+University of Bonn | Bonn, Germany  
+Doctorate (Dr. med.) | 2020  
+
+University of Bonn | Bonn, Germany  
+Medical Degree (MD) | 2017

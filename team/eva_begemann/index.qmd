@@ -1,0 +1,7 @@
+---
+title: "Eva Begemann"
+categories: "K. Pfau"
+image: begemann_eva.jpg
+about:
+  template: trestles
+---

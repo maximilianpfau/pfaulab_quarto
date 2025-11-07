@@ -1,0 +1,18 @@
+---
+title: Ophthalmologica Lecture 2023
+date: Sat Oct 7 12:00:00 2023
+image: featured.jpg
+author: "Our research group"
+categories: ["News"]
+tags: ["Team"]
+---
+
+At the annual meeting of the **European Society of Retina Specialists (EURETINA)** 2023, Priv.‑Doz. Dr. Maximilian Pfau was honoured with the prestigious **Ophthalmologica Lecture 2023** on 7 October. This award is presented to a young European ophthalmologist and clinician‑scientist under 40 who has already made significant contributions to retinal research.
+
+In his talk Maximilian Pfau explained three core concepts of his research that could decisively improve future therapeutic studies for retinal diseases:
+
+1. the use of data from natural history as well as patient‑specific pre‑treatment data,  
+2. focusing on mild structural changes at the leading edge of the disease, and  
+3. inclusion of hypothesis‑driven visual function tests.  
+
+Learn more about the award here: <https://euretina.org/resource/episode-36-the-ophthalmologica-lecture-maximilian-pfau/>

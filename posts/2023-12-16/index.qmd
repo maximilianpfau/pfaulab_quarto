@@ -1,0 +1,52 @@
+---
+title: Annual Review 2023
+date: Sat Dec 16 17:23:40 2023
+image: featured.jpg
+author: "Our research group"
+categories: ["News"]
+---
+
+# A heartfelt thank you!
+
+Thank you to all study participants this year. As participants you made a decisive contribution to the research.
+
+With great care we again published these findings this year in peer‑reviewed scientific journals. Our publications this year can be found at the following [link](https://pubmed.ncbi.nlm.nih.gov/?term=%28%28%28%28Maximilian+Pfau%5BAuthor%5D%29+OR+%28Kristina+Pfau%5BAuthor%5D%29+OR+%28Kristina+Hess%5BAuthor%5D%29%29%29+AND+%28%28%222023%2F01%2F01%22%5BDate+-+Publication%5D+%3A+%222023%2F12%2F31%22%5BDate+-+Publication%5D%29%29)&sort=date).
+
+Below you will also find a summary of our 3 most important publications in 2023.
+
+We look forward to welcoming you to examinations again next year and are happy to answer any questions you may have.
+
+**Merry Christmas and a Happy New Year,**
+
+*Maximilian Pfau, Kristina Pfau (née Hess)*
+
+---
+
+## Our three most important publications in 2023
+
+#### 1. Earliest vascular changes in Pseudoxanthoma elasticum
+> Loewinger, A. S., Pfau, M., Herrmann, P., Holz, F. G., & Pfau, K. (2023). Choriocapillaris Flow Signal Impairment in Patients With Pseudoxanthoma Elasticum. *Investigative Ophthalmology & Visual Science*, 64(2), 21. <https://doi.org/10.1167/iovs.64.2.21>
+
+**Background:** Accurate measurement of calcification of Bruch’s membrane in the eye would significantly facilitate the conduct of future studies. Clinically, changes are observed in the underlying vascular layer (choroid). However, measuring the capillary layer (choriocapillaris) is technically challenging.
+
+**Innovation:** The aim of the study was to measure changes in choriocapillaris flow in patients with PXE in the preatrophic stage and to investigate its relationship with structural changes of the choroid and outer retina. Using optical coherence tomography angiography (OCTA), it was shown that patients with PXE exhibit significant choriocapillaris changes very early—even in preatrophic stages and with normal choroid thickness. Moreover, choriocapillaris flow density correlated with the thickness of the overlying outer retina.
+
+**Significance:** Analysis of choriocapillaris flow density is more suitable than choroid thickness for monitoring PXE in mild disease stages. Choriocapillaris flow density may be an appropriate outcome measure for future intervention studies and is currently being further investigated by us as part of the PROPXE study ([NCT05662085](https://clinicaltrials.gov/study/NCT05662085)).
+
+#### 2. Influence of genetics on the loss of retinal function in Stargardt disease
+> Pfau, M., Huryn, L. A., Boyle, M. P., Cukras, C. A., Zein, W. M., Turriff, A., Ullah, E., Hufnagel, R. B., Jeffrey, B. G., & Brooks, B. P. (2023). Natural History of Visual Dysfunction in ABCA4 Retinopathy and Its Genetic Correlates. *American Journal of Ophthalmology*, 253, 224–232. <https://doi.org/10.1016/j.ajo.2023.05.014>
+
+**Background:** Many visual function tests have been described for Stargardt disease (ABCA4 retinopathy) to document the course of the disease. However, a systematic comparison of all visual function tests has been lacking to date.
+
+**Innovation:** This study was based on the large, prospective natural history study of the National Institutes of Health. Participants underwent a variety of functional tests during an average follow‑up of 3.65 years. We showed, among other things, that microperimetry (visual field testing in the macula) was most sensitive to change, but could only be performed in a subset of patients. Over a 5‑year interval, the amplitude of the dark‑adapted a‑wave in the electroretinogram was also sensitive to disease progression. The genotype explained a large portion of the variability in changes in the electroretinogram.
+
+**Significance:** This work is the most comprehensive comparison of visual function tests in Stargardt disease to date. Especially in patients with advanced disease where most visual function tests can no longer be performed, the electroretinogram can be used to quantify disease progression.
+
+#### 3. Fundus‑controlled measurement of dark adaptation
+> Oertli, J. M., Pfau, K., Scholl, H. P. N., Jeffrey, B. G., & Pfau, M. (2023). Establishing Fully‑Automated Fundus‑Controlled Dark Adaptometry: A Validation and Retest‑Reliability Study. *Translational Vision Science & Technology*, 12(12), 18. <https://doi.org/10.1167/tvst.12.12.18>
+
+**Background:** The rate of dark adaptation is slowed in many retinal diseases. Patients report that they take much longer to get used to the environment when entering indoor spaces. However, there has been no method to measure this in patients who cannot or can hardly fixate (maintain gaze on a small point).
+
+**Innovation:** We developed a new method to test how well a person’s eyes adapt to darkness—independent of whether the subject can fixate on a point or not. We used a specialized device called S‑MAIA and programmed new software for it. To verify that our test is valid, we compared it with another established device (MonCvONE).
+
+**Significance:** This new test method forms the basis for many future research projects, as we can now systematically assess the rate of dark adaptation in a wide range of patients.

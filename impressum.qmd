@@ -1,0 +1,97 @@
+---
+title: "Impressum"
+format:
+  html:
+    toc: false
+---
+
+
+**Angaben gemäß § 5 TMG und § 55 RStV**
+
+**Herausgeber:**  
+Arbeitsgruppe Pfau (AG Pfau)  
+Universitäts-Augenklinik Bonn  
+Venusberg-Campus 1  
+Gebäude A 04 & A 05  
+53127 Bonn  
+Deutschland  
+
+**Vertreten durch:**  
+Dr. Maximilian Pfau  
+
+**Kontakt:**  
+Telefon: +49 (0)228 287 – 15505 (Zentrale)  
+E-Mail: [Maximilian.Pfau@ukbonn.de](mailto:Maximilian.Pfau@ukbonn.de)  
+
+**Verantwortlich für den Inhalt (§ 55 Abs. 2 RStV):**  
+Dr. Maximilian Pfau (Anschrift s. oben)
+
+---
+
+## Träger / Rechtliche Hinweise
+
+Das **Universitätsklinikum Bonn (UKB)** ist eine **Anstalt des öffentlichen Rechts**.  
+
+**Anschrift des UKB:**  
+Universitätsklinikum Bonn  
+Venusberg-Campus 1 ( ehem. Sigmund-Freud-Str. 25 )  
+53127 Bonn  
+Telefonzentrale: +49 (0)228 287 – 0  
+
+Das UKB ist eine Einrichtung der **Rheinischen Friedrich-Wilhelms-Universität Bonn**.
+
+**Hinweis:**  
+Es gilt ergänzend das offizielle Impressum und die Datenschutzerklärung des  
+[Universitätsklinikums Bonn (UKB)](https://www.ukbonn.de/impressum/) sowie der [Universität Bonn](https://www.uni-bonn.de/de/impressum).
+
+**Aufsichtsbehörde:**  
+Ministerium für Kultur und Wissenschaft des Landes Nordrhein-Westfalen  
+Völklinger Straße 49  
+40221 Düsseldorf  
+
+---
+
+## Datenschutz
+
+Das Universitätsklinikum Bonn beachtet die aktuell gültigen Datenschutzbestimmungen.  
+Fragen zum Datenschutz richten Sie bitte an die Datenschutzbeauftragten des UKB:
+
+**Herr Achim Flender** – [Achim.Flender@ukbonn.de](mailto:Achim.Flender@ukbonn.de)  
+Tel.: +49 (0)228 287 – 16075  
+Universitätsklinikum Bonn, Venusberg-Campus 1, 53127 Bonn  
+
+Das UKB weist darauf hin, dass eine Datenübertragung im Internet grundsätzlich Sicherheitslücken aufweisen kann und nicht vollständig vor dem Zugriff Dritter geschützt ist.  
+Die Verwendung der im Impressum veröffentlichten Kontaktdaten zur gewerblichen Werbung ist ausdrücklich untersagt.  
+Alle auf dieser Website genannten Personen widersprechen hiermit jeder kommerziellen Verwendung und Weitergabe ihrer Daten.
+
+---
+
+## Disclaimer – Rechtliche Hinweise
+
+### 1. Haftungsausschluss
+Das UKB und die AG Pfau sind stets bemüht, aktuelle und inhaltlich richtige Informationen auf dieser Webseite bereitzustellen.  
+Eine Gewähr für die Richtigkeit, Aktualität und Vollständigkeit der bereitgestellten Informationen wird jedoch nicht übernommen.  
+Haftungsansprüche gegen das UKB oder die AG Pfau, die durch die Nutzung der bereitgestellten Informationen entstehen, sind ausgeschlossen, sofern kein nachweislich vorsätzliches oder grob fahrlässiges Verschulden vorliegt.  
+Die Bereitstellung von Informationen auf dieser Website ersetzt keine ärztliche Beratung oder Behandlung.  
+Das UKB behält sich vor, Inhalte jederzeit ohne Ankündigung zu ändern oder zu entfernen.
+
+### 2. Externe Links
+Diese Website enthält Verknüpfungen zu externen Webseiten Dritter („externe Links“). Diese Webseiten unterliegen der Haftung der jeweiligen Betreiber.  
+Das UKB hat bei der erstmaligen Verknüpfung die fremden Inhalte geprüft und keine Rechtsverstöße festgestellt. Auf die aktuelle und zukünftige Gestaltung hat das UKB keinen Einfluss.   
+Bei Bekanntwerden von Rechtsverstößen werden entsprechende Links unverzüglich entfernt.
+
+### 3. Urheber- und Leistungsschutzrechte
+Alle auf dieser Website veröffentlichten Inhalte unterliegen dem deutschen Urheberrecht.  
+Jede vom Urheberrecht nicht zugelassene Verwertung bedarf der vorherigen schriftlichen Zustimmung des jeweiligen Rechteinhabers.  
+Die Herstellung von Kopien und Downloads für den persönlichen, privaten und nicht kommerziellen Gebrauch ist erlaubt.  
+Die Darstellung dieser Website in fremden Frames ist nur mit schriftlicher Erlaubnis zulässig.
+
+### 4. Datenschutz und Kommunikation
+Bei der Übermittlung von Daten per E-Mail besteht die Möglichkeit, dass Daten von Dritten mitgelesen werden. Bitte übermitteln Sie keine sensiblen medizinischen Informationen auf diesem Weg.
+
+### 5. Rechtswirksamkeit dieses Haftungsausschlusses
+Sollten einzelne Bestimmungen dieses Textes unwirksam sein oder werden, bleiben die übrigen Bestimmungen davon unberührt.
+
+---
+
+

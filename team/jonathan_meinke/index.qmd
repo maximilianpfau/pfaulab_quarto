@@ -1,0 +1,20 @@
+---
+title: "Jonathan Meinke"
+categories: "K. Pfau"
+image: meinke_jonathan.jpg
+about:
+  template: trestles
+---
+
+Jonathan Meinke graduated from the University of Bonn, Germany, and is currently a resident at the Department of Ophthalmology, University Eye Hospital Bonn. His research focuses on retinal changes and disease progression in retinal dystrophies such as Pseudoxanthoma Elasticum (PXE).
+
+## Education
+
+University of Bonn | Bonn, Germany  
+Ophthalmology Residency | 2023 – ongoing  
+
+University of Bonn | Bonn, Germany  
+Doctorate (Dr. med.) | 2024  
+
+University of Bonn | Bonn, Germany  
+Medical Degree (MD) | 2022

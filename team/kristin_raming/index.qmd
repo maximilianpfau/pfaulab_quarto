@@ -1,0 +1,20 @@
+---
+title: "Kristin Raming"
+categories: "K. Pfau" 
+image: raming_kristin.jpg
+about:
+  template: trestles
+---
+
+Kristin Raming is a resident at the University Eye Clinic of Bonn, Germany. She investigated visual function in Sorsby Fundus Dystrophy as part of her doctoral thesis (Dr. med.) and was awarded a competitive scholarship from the German Ophthalmological Society (DOG) for her work. During her studies, she also conducted research on Pseudoxanthoma Elasticum (PXE). She aims to further strengthen her research on retinal diseases as part of her residency in ophthalmology.
+
+## Education
+
+University of Bonn | Bonn, Germany  
+Ophthalmology Residency | 2022 – ongoing  
+
+University of Bonn | Bonn, Germany  
+Doctorate (Dr. med.) | 2023  
+
+University of Bonn | Bonn, Germany  
+Medical Degree (MD) | 2022

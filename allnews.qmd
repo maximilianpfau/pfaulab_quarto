@@ -1,0 +1,8 @@
+---
+title: "News"
+page-layout: full
+listing:
+  contents: posts/.
+  sort: "date desc"
+  fields: [image, title, date]
+---

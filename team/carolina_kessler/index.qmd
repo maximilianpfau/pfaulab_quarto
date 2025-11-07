@@ -1,0 +1,17 @@
+---
+title: "Carolina Charlotte Kessler"
+categories: "K. Pfau" 
+image: kessler_carolina-charlotte.jpg
+about:
+  template: trestles
+---
+
+Carolina Kessler is currently a medical student at the University of Bonn and joined our group to work on a project investigating retinal changes and disease progression in conditions such as Pseudoxanthoma Elasticum (PXE).
+
+## Education
+
+University of Cologne (AG Heidenreich/von Brandenstein) | Cologne, Germany  
+Doctoral Thesis (Dr. med.) | ongoing  
+
+University of Bonn | Bonn, Germany  
+Medical Degree (MD) | ongoing

@@ -1,0 +1,53 @@
+---
+title: "Team"
+toc: true
+toc-depth: 3
+listing:
+  - id: group_kpfau
+    contents: team
+    type: grid
+    grid-item-align: center
+    grid-item-border: false
+    sort: "title"
+    fields: [image, title]
+    include:
+      categories: "K. Pfau"
+  - id: group_mpfau
+    contents: team
+    type: grid
+    grid-item-align: center
+    grid-item-border: false
+    sort: "title"
+    fields: [image, title]
+    include:
+      categories: "M. Pfau"
+---
+
+
+## Group K. Pfau
+:::{#group_kpfau}
+:::
+
+### Almuni
+
+| Name               | Role / Type of Thesis               | Mentorship Role | University           |
+|--------------------|------------------------------------|-----------------|----------------------|
+| **Anne-Sophie Löwinger** | Dr. med. Thesis | Co-mentor | University of Bonn |
+
+
+## Group M. Pfau
+:::{#group_mpfau}
+:::
+
+
+### Almuni
+
+| Name               | Role / Type of Thesis               | Mentorship Role | University           |
+|--------------------|------------------------------------|-----------------|----------------------|
+| **Jeannine Oertli** | Master Thesis | Primary mentor | University of Basel |
+| **Lara Kaiser** | Master Thesis         | Primary mentor | University of Basel |
+| **Sandrine Künzel** | Dr. med. Thesis | Co-mentor | University of Bonn |
+| **Muriel Huss** | Dr. med. Thesis | Co-mentor | University of Bonn |
+| **Leon von der Emde** | Dr. med. Thesis | Co-mentor | University of Bonn |
+| **Lukas Goerdt** | Dr. med. Thesis | Co-mentor | University of Bonn |
+

@@ -1,0 +1,15 @@
+---
+title: Maximilian Pfau
+description: Department of Ophthalmology, University of Bonn
+categories: "M. Pfau"
+image: pfau_maximilian.jpg
+about:
+  template: trestles
+  links:
+  - icon: fa graduation-cap
+    text: Google Scholar
+    href: https://scholar.google.com/citations?user=KYuK460AAAAJ&hl
+  - icon: linkedin
+    text: Linkedin
+    href: https://www.linkedin.com/in/maximilian-pfau-a074b7a8
+---

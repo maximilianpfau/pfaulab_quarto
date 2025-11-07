@@ -1,0 +1,51 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - assets/**
+
+website:
+  title: "Pfau Lab"
+  site-url: https://www.pfaulab.com
+  repo-url: https://github.com/maximilianpfau/pfaulab
+  navbar:
+    right:
+      - text: News
+        href: index.qmd#news
+      - text: Team
+        href: index.qmd#group-k.-pfau  
+      - text: Publications
+        href: publications.qmd
+      #- text: Resources
+      #  href: publications.qmd
+      #- text: Für Patienten
+      #  href: publications.qmd
+    search: false
+
+    
+  page-footer:
+    left: 
+      <a href="https://www.uni-bonn.de" target="_blank" rel="noopener">
+        <img src="/assets/media/unibonn.png" alt="University of Bonn" />
+      </a>
+      &nbsp; &nbsp; &nbsp;
+      <a href="https://www.ukbonn.de" target="_blank" rel="noopener">
+          <img src="/assets/media/ukb.png" alt="University Hospital Bonn" />
+      </a>
+    right: 
+      © Maximilian Pfau, 2025 &nbsp;·&nbsp;
+      <a class="footer-link" href="/impressum.html">Legal notice / Impressum</a>
+
+format:
+  html:
+    theme:
+      light: flatly
+      # dark: darkly
+    # toggle: true
+    css: styles/pfaulab.scss
+    toc: false
+
+
+# Disable code execution; this site is pure markdown/listings
+execute:
+  eval: false

@@ -1,0 +1,29 @@
+---
+title: "Olivier Morelle"
+categories: "M. Pfau" 
+image: morelle_olivier.jpg
+about:
+  template: trestles
+  links:
+  - icon: github
+    text: Github
+    href: https://github.com/Oli4
+  - icon: link
+    text: Homepage
+    href: https://olivier.morelle.dev
+---
+
+Olivier Morelle is a life science informatics professional specializing in medical image analysis and the developer of EyePy, a Python software package designed to streamline the reading and visualization of ophthalmological OCT datasets. His research focuses on developing deep learning models for OCT data segmentation.
+
+By combining a strong academic foundation with hands-on software development, Olivier aims to contribute to advancements in medical AI and data science, particularly in roles that connect research and industry applications.
+
+## Education
+
+University of Bonn | Bonn, Germany  
+PhD Medical Image Analysis | 2024 
+
+Bonn-Aachen International Center for Information Technology (b-it) | Bonn, Germany  
+MSc Life Science Informatics |  
+
+University of Cologne | Cologne, Germany  
+BSc Biology | 2022

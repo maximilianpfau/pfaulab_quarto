@@ -1,0 +1,24 @@
+---
+title: "Georg Ansari"
+categories: "M. Pfau"
+image: ansari_georg.jpg
+about:
+  template: trestles
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/georg-ansari-b37734212/
+---
+
+Georg Ansari graduated from Paracelsus Medical University in Salzburg, Austria, and is currently a resident at the Department of Ophthalmology, University of Basel, Switzerland. His research focuses on investigating visual function in retinal diseases.
+
+## Education
+
+University of Basel | Basel, Switzerland  
+MD/PhD Program | 2023 – ongoing  
+
+University of Basel | Basel, Switzerland  
+Ophthalmology Residency | 2022 – ongoing  
+
+Paracelsus Medical University | Salzburg, Austria  
+Medical Degree (MD) | 2022

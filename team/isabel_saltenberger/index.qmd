@@ -1,0 +1,9 @@
+---
+title: Isabel Saltenberger
+categories: "K. Pfau"
+image: saltenberger_isabel.jpg
+about:
+  template: trestles
+---
+
+Isabel Saltenberger joined our group to work on a project about intraocular pressure in Pseudoxanthoma elasticum (PXE). This project will serve as the basis for her doctoral degree (Dr. med. dent.).

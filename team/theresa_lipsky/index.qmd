@@ -1,0 +1,22 @@
+---
+title: "Theresa Lipsky"
+categories: "M. Pfau" 
+image: lipsky_theresa.jpg
+about:
+  template: trestles
+  links:
+  - icon: github
+    text: Github
+    href: https://github.com/Oli4
+  - icon: link
+    text: Homepage
+    href: https://olivier.morelle.dev
+---
+
+Theresa Lipsky, MD is an ophthalmology resident at the University Hospital Basel currently completing a dedicated research year. Her work focuses on developing and validating novel methods for dark adaptometry to improve assessment of retinal function.
+
+## Education
+
+Paracelsus Medical University Salzburg | Salzburg, Austria
+Medicine | 2019 - 2024 
+

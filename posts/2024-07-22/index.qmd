@@ -1,0 +1,20 @@
+---
+title: "Comprehensive Review on PXE"
+date: 2024-07-22
+image: featured.jpg
+author: "Our research group"
+categories: ["News"]
+tags: ["Research"]
+---
+
+In collaboration with European colleagues, PD Dr. Kristina Pfau and PD Dr. Maximilian Pfau have published a comprehensive overview of Pseudoxanthoma Elasticum (PXE).
+
+PXE is a genetically determined systemic disorder that leads to the calcification of elastic fibres and affects primarily the skin, the eyes and the cardiovascular system. Ophthalmologically, the disease often becomes apparent early through a slower adaptation from light to dark. In late stages there is neovascularisation and retinal degeneration. Systemically, patients suffer from early atherosclerosis and reduced pain‑free walking distance. The first signs, often already in childhood or adolescence, are changes in the skin, especially in the neck area.
+
+“Ophthalmologically, PXE can resemble age‑related macular degeneration, but because of the genetic cause it generally manifests earlier. As several therapeutic trials for PXE will begin in the coming years, we hope that this review article will raise awareness of the disease,” says Prof. Nicolas Feltgen, head of the Eye Clinic.
+
+The journal *Progress in Retinal and Eye Research* is the highest‑ranked ophthalmology journal with an Impact Factor of 19.7 (2021) and articles are published by invitation only.
+
+For further information and support, affected individuals and interested parties can contact our clinic.
+
+Learn more about the article here: <https://doi.org/10.1016/j.preteyeres.2024.101274>

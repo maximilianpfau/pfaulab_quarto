@@ -1,1 +1,1 @@
-Sitemap: https://www.pfaulab.com/sitemap.xml
+Sitemap: https://maximilianpfau.github.io/pfaulab_quarto/sitemap.xml

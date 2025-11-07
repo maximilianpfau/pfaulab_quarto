@@ -1,5 +1,17 @@
 [
   {
+    "listing": "/allnews.html",
+    "items": [
+      "/posts/2025-08-29/index.html",
+      "/posts/2025-07-04/index.html",
+      "/posts/2024-12-22/index.html",
+      "/posts/2024-07-22/index.html",
+      "/posts/2023-12-16/index.html",
+      "/posts/2023-10-07/index.html",
+      "/posts/2023-07-09/index.html"
+    ]
+  },
+  {
     "listing": "/team.html",
     "items": [
       "/team/carolina_kessler/index.html",
@@ -12,36 +24,6 @@
       "/team/maximilian_pfau/index.html",
       "/team/olivier_morelle/index.html",
       "/team/theresa_lipsky/index.html"
-    ]
-  },
-  {
-    "listing": "/posts/index.html",
-    "items": [
-      "/posts/2025-08-29-r-ckkehr-nach-bonn/index.html",
-      "/posts/2025-10-01-new-paper/index.html",
-      "/posts/2025-07-04-jackstaedt2025/index.html",
-      "/posts/2025-05-05-hiring-new-ophthalmology-residents-and-postdoc/index.html",
-      "/posts/2024-12-22-jahresr-ckblick-2024/index.html",
-      "/posts/2024-07-22-pxe/index.html",
-      "/posts/jahr2023/index.html",
-      "/posts/euretina2023/index.html",
-      "/posts/jackstadt/index.html",
-      "/posts/propxe/index.html",
-      "/posts/jahr2022/index.html",
-      "/posts/getting-started/index.html"
-    ]
-  },
-  {
-    "listing": "/k-group.html",
-    "items": [
-      "/team/carolina_kessler/index.html",
-      "/team/eva_begemann/index.html",
-      "/team/georg_ansari/index.html",
-      "/team/isabel_saltenberger/index.html",
-      "/team/jonathan_meinke/index.html",
-      "/team/kristin_raming/index.html",
-      "/team/kristina_pfau/index.html",
-      "/team/maximilian_pfau/index.html"
     ]
   },
   {
@@ -64,18 +46,6 @@
       "/team/maximilian_pfau/index.html",
       "/team/olivier_morelle/index.html",
       "/team/theresa_lipsky/index.html"
-    ]
-  },
-  {
-    "listing": "/allnews.html",
-    "items": [
-      "/posts/2025-08-29/index.html",
-      "/posts/2025-07-04/index.html",
-      "/posts/2024-12-22/index.html",
-      "/posts/2024-07-22/index.html",
-      "/posts/2023-12-16/index.html",
-      "/posts/2023-10-07/index.html",
-      "/posts/2023-07-09/index.html"
     ]
   }
 ]

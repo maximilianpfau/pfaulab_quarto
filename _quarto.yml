@@ -3,6 +3,7 @@ project:
   output-dir: _site
   resources:
     - assets/**
+    - /styles/pfaulab.scss
 
 website:
   title: "Pfau Lab"

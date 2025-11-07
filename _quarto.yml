@@ -38,14 +38,10 @@ website:
 
 format:
   html:
-    theme:
-      light: flatly
-      # dark: darkly
+    theme: flatly
+    css: styles/pfaulab.scss  
     toc: false
-    css: styles/pfaulab.scss
-    # Force relative URLs to resolve under the GitHub Pages subpath
-    include-in-header: |
-      <base href="https://maximilianpfau.github.io/pfaulab_quarto/">
+
 
 # Disable code execution; this site is pure markdown/listings
 execute:

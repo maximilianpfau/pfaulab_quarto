@@ -1,9 +1,6 @@
 project:
   type: website
   output-dir: _site
-  resources:
-    - assets/**
-    - /styles/pfaulab.scss
 
 website:
   title: "Pfau Lab"
@@ -40,8 +37,9 @@ website:
 format:
   html:
     theme: flatly
-    css: /styles/pfaulab.scss  
+    css: styles/pfaulab.css
     toc: false
+
 
 
 # Disable code execution; this site is pure markdown/listings

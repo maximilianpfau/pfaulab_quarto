@@ -39,7 +39,7 @@ website:
 format:
   html:
     theme: flatly
-    css: styles/pfaulab.scss  
+    css: /styles/pfaulab.scss  
     toc: false
 
 

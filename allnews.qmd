@@ -1,9 +1,0 @@
----
-title: "News"
-page-layout: full
-listing:
-  contents: posts/.
-  type: grid
-  sort: "date desc"
-  fields: [image, title, date]
----

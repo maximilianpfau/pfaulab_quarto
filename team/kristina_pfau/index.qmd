@@ -2,7 +2,7 @@
 title: Kristina Pfau (née Hess)
 description: Department of Ophthalmology, University of Bonn
 categories: "K. Pfau" 
-image: pfau_kristina.jpg
+image: pfau_kristina.webp
 about:
   template: trestles
   links:

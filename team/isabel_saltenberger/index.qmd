@@ -1,7 +1,7 @@
 ---
 title: Isabel Saltenberger
 categories: "K. Pfau"
-image: saltenberger_isabel.jpg
+image: saltenberger_isabel.webp
 about:
   template: trestles
 ---

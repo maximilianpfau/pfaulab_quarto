@@ -1,7 +1,7 @@
 ---
 title: Ophthalmologica Lecture 2023
 date: Sat Oct 7 12:00:00 2023
-image: featured.jpg
+image: featured.webp
 author: "Our research group"
 categories: ["News"]
 tags: ["Team"]

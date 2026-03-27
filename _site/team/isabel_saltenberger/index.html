@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../">
+<script src="../../site_libs/cookie-consent/cookie-consent.js"></script>
+<link href="../../site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
 <script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
@@ -67,9 +69,36 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-MJX7QL4CZN"></script>
+
+<script type="text/plain" cookie-consent="tracking">
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-MJX7QL4CZN', { 'anonymize_ip': true});
+</script>
+
+<script type="text/javascript" charset="UTF-8">
+document.addEventListener('DOMContentLoaded', function () {
+cookieconsent.run({
+  "notice_banner_type":"simple",
+  "consent_type":"implied",
+  "palette":"light",
+  "language":"en",
+  "page_load_consent_levels":["strictly-necessary","functionality","tracking","targeting"],
+  "notice_banner_reject_button_hide":false,
+  "preferences_center_close_button_hide":false,
+  "website_name":""
+  ,
+"language":"en"
+  });
+});
+</script> 
+  
 
 
-<link rel="stylesheet" href="../../styles/pfaulab.scss">
+<link rel="stylesheet" href="../../styles/pfaulab.css">
 </head>
 
 <body class="nav-fixed fullcontent quarto-light">
@@ -91,16 +120,20 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
+    <a class="nav-link" href="../../index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="../../index.html#news"> 
 <span class="menu-text">News</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../../index.html#group-k.-pfau"> 
-<span class="menu-text">Team</span></a>
+<span class="menu-text">Meet the Team</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../publications.html"> 
-<span class="menu-text">Publications</span></a>
+    <a class="nav-link" href="../../research.html"> 
+<span class="menu-text">Our Research</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -117,7 +150,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <div class="quarto-about-trestles">
   <div class="about-entity">
-    <img src="saltenberger_isabel.jpg" class="about-image
+    <img src="saltenberger_isabel.webp" class="about-image
   rounded " style="width: 20em;">
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -202,7 +235,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/maximilianpfau\.github\.io\/pfaulab_quarto\/");
+        var filterRegex = new RegExp("https:\/\/www\.pfaulab\.com");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -533,11 +566,11 @@ ul.task-list li input[type="checkbox"] {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p><a href="https://www.uni-bonn.de" target="_blank" rel="noopener"> <img src="../../assets/media/unibonn.png" alt="University of Bonn"> </a> &nbsp; &nbsp; &nbsp; <a href="https://www.ukbonn.de" target="_blank" rel="noopener"> <img src="../../assets/media/ukb.png" alt="University Hospital Bonn"> </a></p>
+<p><a href="https://www.uni-bonn.de" target="_blank" rel="noopener"> <img src="../../assets/media/unibonn.webp" alt="University of Bonn"> </a> &nbsp; &nbsp; &nbsp; <a href="https://www.ukbonn.de" target="_blank" rel="noopener"> <img src="../../assets/media/ukb.webp" alt="University Hospital Bonn"> </a></p>
 </div>   
     <div class="nav-footer-center">
-      &nbsp;
-    </div>
+
+<div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
     <div class="nav-footer-right">
 <p>© Maximilian Pfau, 2025 &nbsp;·&nbsp; <a class="footer-link" href="../../impressum.html">Legal notice / Impressum</a></p>
 </div>

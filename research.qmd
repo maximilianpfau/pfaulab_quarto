@@ -1,0 +1,47 @@
+---
+title: "Our Research"
+format:
+  html:
+    toc: true
+---
+Our lab is dedicated to improving how we **monitor**, **understand**, and **treat** retinal diseases. We focus on three core research areas that bridge cutting-edge technology with patient care: (1) developing and validating innovative vision tests, (2) harnessing artificial intelligence (AI) and state-of-the-art imaging to reveal new disease markers, and (3) deeply profiling common and inherited retinal diseases ([All Publications →](publications.qmd)).
+
+## Innovative Visual Function Testing
+
+We create **novel vision tests** that more precisely measure how patients see and how their vision deteriorates over time.
+
+One example is the invention of **patient-tailored microperimetry**.[^1] Microperimetry is a vision test that maps a person’s light sensitivity across the retina using eye tracking.[^2] Our lab pioneered the concept of **patient-tailored test patterns**, where test points are positioned based on each patient’s unique condition, making the exams both shorter and more informative.[^1] This personalized approach has proven so effective that microperimetry is now used as an **outcome measure in clinical trials**, helping to capture treatment benefits that standard testing might miss.
+
+We have also developed a **fundus-tracked dark adaptometry** system—a test that measures how the eye adapts from bright light to darkness.[^3] By using automated eye tracking, our system ensures reliable results even for patients who have difficulty maintaining steady fixation. These innovations enable earlier detection of subtle vision loss and help us tailor treatments more precisely.
+
+## AI-Based Image Analysis & New Structural Endpoints
+
+We leverage **artificial intelligence** to uncover new insights from retinal images that may be difficult to detect with the human eye. A major focus of this work is developing AI tools to identify **novel structural endpoints**—new ways to measure disease severity or treatment effects based on eye scans.
+
+For example, our lab introduced the concept of **“macula-wide photoreceptor degeneration,”** which quantifies how much of the eye’s light-sensing cells (photoreceptors) are lost across the central retina.[^4] Using AI algorithms on high-resolution optical coherence tomography (OCT) scans, we can automatically map changes in the photoreceptor and retinal pigment epithelium (RPE) layers across the macula.[^4]
+
+This work has led to key discoveries: we helped demonstrate that complement C3 inhibitor therapy—an emerging treatment for age-related macular degeneration—significantly **slows photoreceptor cell loss** beyond visibly affected areas.[^5] In other words, our AI-driven analysis revealed that this treatment helps preserve retinal cells that would otherwise degenerate in *dry* AMD.
+
+By defining such **new imaging biomarkers**, we not only improve how clinical trials assess drug effectiveness, but also open new avenues for detecting and treating retinal damage earlier than ever before.
+
+## Deep Phenotyping of Inherited Retinal Diseases
+
+Our team performs **deep phenotyping** of inherited retinal disorders—examining these conditions from every angle, including structural imaging, functional testing, and genetic analysis. We have a particular focus on two rare **genetic eye diseases**: **Pseudoxanthoma elasticum (PXE)** and **Stargardt disease**.
+
+In *Pseudoxanthoma elasticum*—a systemic condition that causes mineralized deposits in the eyes—we investigate how these deposits damage the retina and affect vision.[^6] By **combining multimodal imaging and functional assessments**, we are identifying distinct patterns of retinal degeneration and better biomarkers to track this slow-progressing disease.
+
+In *Stargardt disease* (caused by mutations in the ABCA4 gene), we combine advanced vision tests with genetic analysis to understand how the disease progresses in each individual. Our research has shown that specific genetic mutations strongly influence how early and how rapidly vision loss occurs.[^7]
+
+Through such comprehensive profiling, we aim to advance personalized care and accelerate the development of targeted therapies for inherited retinal diseases.
+we aim to pave the way for new treatments and more patient-tailored care in inherited retinal diseases.
+
+
+
+[^1]: Pfau M et al. Mesopic and Dark-adapted Two-color Fundus-controlled Perimetry in Geographic Atrophy Secondary to Age-related Macular Degeneration. Retina. 2020;40(1):169-180. doi:[10.1097/IAE.0000000000002337](https://doi.org/10.1097/IAE.0000000000002337){target=_blank rel="noopener"}
+[^2]: Pfau M, Jolly JK, Wu Z, et al. Fundus-controlled perimetry (microperimetry): Application as outcome measure in clinical trials. Prog Retin Eye Res. 2021;82:100907. doi:[10.1016/j.preteyeres.2020.100907](https://doi.org/10.1016/j.preteyeres.2020.100907){target=_blank rel="noopener"}
+[^3]: Oertli JM, Pfau K, Scholl HPN, Jeffrey BG, Pfau M. Establishing Fully-Automated Fundus-Controlled Dark Adaptometry: A Validation and Retest-Reliability Study. Transl Vis Sci Technol. 2023;12(12):18. doi:[10.1167/tvst.12.12.18](https://doi.org/10.1167/tvst.12.12.18){target=_blank rel="noopener"}
+[^4]: Pfau M, von der Emde L, de Sisternes L, et al. Progression of Photoreceptor Degeneration in Geographic Atrophy Secondary to Age-related Macular Degeneration. JAMA Ophthalmol. 2020;138(10):1026-1034. doi:[10.1001/jamaophthalmol.2020.2914](https://doi.org/10.1001/jamaophthalmol.2020.2914){target=_blank rel="noopener"}
+[^5]: Pfau M, Schmitz-Valckenberg S, Ribeiro R, et al. Association of complement C3 inhibitor pegcetacoplan with reduced photoreceptor degeneration beyond areas of geographic atrophy. Sci Rep. 2022;12(1):17870. Published 2022 Oct 25. doi:[10.1038/s41598-022-22404-9](https://doi.org/10.1038/s41598-022-22404-9){target=_blank rel="noopener"} 
+[^6]: Pfau K, Lengyel I, Ossewaarde-van Norel J, et al. Pseudoxanthoma elasticum - Genetics, pathophysiology, and clinical presentation. Prog Retin Eye Res. 2024;102:101274. doi:[10.1016/j.preteyeres.2024.101274](https://doi.org/10.1016/j.preteyeres.2024.101274){target=_blank rel="noopener"} 
+[^7]: Pfau M, Cukras CA, Huryn LA, et al. Photoreceptor degeneration in ABCA4-associated retinopathy and its genetic correlates. JCI Insight. 2022;7(2):e155373. Published 2022 Jan 25. doi:[10.1172/jci.insight.155373](https://doi.org/10.1172/jci.insight.155373){target=_blank rel="noopener"}
+

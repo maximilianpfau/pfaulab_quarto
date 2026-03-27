@@ -1,6 +1,5 @@
 ---
-title: "Publications"
-page-layout: full
+title: "All Publications"
 # Use any CSL you like (APA below prints DOI/URL by default).
 # You can switch to Vancouver later with: csl: styles/vancouver.csl
 csl: styles/apa.csl
@@ -10,6 +9,7 @@ nocite: |
   @*   # render ALL items in publications.bib
 ---
 
+<div id="refs">
 <style>
 /* two columns on wide screens, tidy spacing */
 #refs { column-gap: 2rem; }
@@ -70,3 +70,4 @@ document.addEventListener('DOMContentLoaded', function () {
   });
 });
 </script>
+</div>

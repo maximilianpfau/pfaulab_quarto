@@ -2,6 +2,7 @@
   {
     "listing": "/allnews.html",
     "items": [
+      "/posts/2025-11-16/index.html",
       "/posts/2025-08-29/index.html",
       "/posts/2025-07-04/index.html",
       "/posts/2024-12-22/index.html",
@@ -14,12 +15,14 @@
   {
     "listing": "/team.html",
     "items": [
-      "/team/carolina_kessler/index.html",
+      "/team/ebony_eberz/index.html",
       "/team/eva_begemann/index.html",
       "/team/isabel_saltenberger/index.html",
       "/team/jonathan_meinke/index.html",
       "/team/kristin_raming/index.html",
       "/team/kristina_pfau/index.html",
+      "/team/marie_holzaht/index.html",
+      "/team/philine_roehler /index.html",
       "/team/georg_ansari/index.html",
       "/team/maximilian_pfau/index.html",
       "/team/olivier_morelle/index.html",
@@ -29,6 +32,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/2025-11-16/index.html",
       "/posts/2025-08-29/index.html",
       "/posts/2025-07-04/index.html",
       "/posts/2024-12-22/index.html",
@@ -36,12 +40,14 @@
       "/posts/2023-12-16/index.html",
       "/posts/2023-10-07/index.html",
       "/posts/2023-07-09/index.html",
-      "/team/carolina_kessler/index.html",
+      "/team/ebony_eberz/index.html",
       "/team/eva_begemann/index.html",
       "/team/isabel_saltenberger/index.html",
       "/team/jonathan_meinke/index.html",
       "/team/kristin_raming/index.html",
       "/team/kristina_pfau/index.html",
+      "/team/marie_holzaht/index.html",
+      "/team/philine_roehler /index.html",
       "/team/georg_ansari/index.html",
       "/team/maximilian_pfau/index.html",
       "/team/olivier_morelle/index.html",

@@ -2,7 +2,7 @@
 title: Maximilian Pfau
 description: Department of Ophthalmology, University of Bonn
 categories: "M. Pfau"
-image: pfau_maximilian.jpg
+image: pfau_maximilian.webp
 about:
   template: trestles
   links:

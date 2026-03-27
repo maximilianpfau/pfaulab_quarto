@@ -1,7 +1,7 @@
 ---
 title: "Eva Begemann"
 categories: "K. Pfau"
-image: begemann_eva.jpg
+image: begemann_eva.webp
 about:
   template: trestles
 ---

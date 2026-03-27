@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Review on PXE"
 date: 2024-07-22
-image: featured.jpg
+image: featured.webp
 author: "Our research group"
 categories: ["News"]
 tags: ["Research"]

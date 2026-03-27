@@ -1,0 +1,28 @@
+---
+title: Two New Publications on PXE
+date: "2025-11-16"
+image: featured.webp
+author: "Our research group"
+categories: ["News"]
+---
+
+We are pleased to share two new publications from our group that jointly strengthen the clinical relevance of Bruch’s membrane (BrM) calcification in pseudoxanthoma elasticum (PXE) and demonstrate how high-resolution OCT (HR-OCT) can visualize BrM alterations with improved anatomical precision. Together, these studies provide complementary structural and functional evidence that BrM calcification is a meaningful disease marker and support its development as an endpoint for future therapeutic trials.
+
+---
+
+## 1. Reliability and functional validity of Bruch’s membrane calcification assessment
+
+> **Giger, J. A. W., Ansari, G., Terry, S. F., Charbel Issa, P., Pfau, K., & Pfau, M.** *Measurement Reliability and Functional Validity of Bruch’s Membrane Calcification in Pseudoxanthoma Elasticum: PROPXE Study Report 2*. Investigative Ophthalmology & Visual Science. 2025;66(14):29. <https://doi.org/10.1167/iovs.66.14.29>
+
+
+This multicentre natural-history study demonstrated that measuring the temporal inner *peau d’orange* boundary provides highly reproducible estimates of BrM calcification (inter-reader ICC 0.92; inter-visit ICC 0.95). Calcification extent increased with age and showed a strong association with delayed rod-mediated dark adaptation. Participants with more extensive BrM calcification exhibited meaningfully worse adaptation times across multiple eccentricities, indicating that calcification reflects current functional impairment. These results support BrM calcification as a reliable and clinically relevant structural measure in PXE.
+
+---
+
+## 2. High-resolution OCT correlates in PXE
+
+> **Meinke, J., Raming, K., Kessler, C., Holz, F. G., Pfau, M., & Pfau, K.** *High-Resolution Optical Coherence Tomography Correlates of Peau d’Orange in Pseudoxanthoma Elasticum*. JAMA Ophthalmology. 2025 Nov 6:e254031. <https://doi.org/10.1001/jamaophthalmol.2025.4031>
+
+This prospective case–control study applied HR-OCT (~3 µm axial resolution) to visualize microstructural changes within the RPE–BrM complex in PXE. Distinct transitions zones in HR-OCT corresponded closely to *peau d’orange* regions seen in en face imaging. These features were consistent across subjects and reflected the spatial progression of calcification. The results demonstrate that HR-OCT can capture in vivo tissue-level correlates of BrM calcification that were previously inaccessible with standard imaging.
+
+

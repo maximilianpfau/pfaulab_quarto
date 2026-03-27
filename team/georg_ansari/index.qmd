@@ -1,7 +1,7 @@
 ---
 title: "Georg Ansari"
 categories: "M. Pfau"
-image: ansari_georg.jpg
+image: ansari_georg.webp
 about:
   template: trestles
   links:

@@ -1,0 +1,14 @@
+---
+title: "Philine Röhler"
+categories: "K. Pfau" 
+image: Philine-Roehler.webp
+about:
+  template: trestles
+---
+
+Philine Röhler is currently a medical student at the University of Bonn and joined our research group to contribute to a project investigating retinal changes and disease progression in conditions such as Pseudoxanthoma elasticum (PXE). As part of her work, she is responsible for acquiring retinal imaging data for the Progression Assessment of PXE-associated Alterations (PAPA) Study.
+
+## Education
+
+University of Bonn | Bonn, Germany  
+Medical Degree (MD) | ongoing

@@ -1,34 +1,41 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - CNAME
 
 website:
+  google-analytics: "G-MJX7QL4CZN"
+  cookie-consent: true
   title: "Pfau Lab"
-  site-url: https://maximilianpfau.github.io/pfaulab_quarto/
+  site-url: https://www.pfaulab.com
   repo-url: https://github.com/maximilianpfau/pfaulab
   navbar:
     right:
+      - text: Home
+        href: index.qmd
       - text: News
         href: index.qmd#news
-      - text: Team
+      - text: Meet the Team
         href: index.qmd#group-k.-pfau  
-      - text: Publications
-        href: publications.qmd
+      - text: Our Research
+        href: research.qmd
       #- text: Resources
       #  href: publications.qmd
       #- text: Für Patienten
       #  href: publications.qmd
     search: false
 
+
     
   page-footer:
     left: 
       <a href="https://www.uni-bonn.de" target="_blank" rel="noopener">
-        <img src="/assets/media/unibonn.png" alt="University of Bonn" />
+        <img src="/assets/media/unibonn.webp" alt="University of Bonn" />
       </a>
       &nbsp; &nbsp; &nbsp;
       <a href="https://www.ukbonn.de" target="_blank" rel="noopener">
-          <img src="/assets/media/ukb.png" alt="University Hospital Bonn" />
+          <img src="/assets/media/ukb.webp" alt="University Hospital Bonn" />
       </a>
     right: 
       © Maximilian Pfau, 2025 &nbsp;·&nbsp;

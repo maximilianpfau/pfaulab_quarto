@@ -1,7 +1,7 @@
 ---
 title: Annual Review 2024
 date: '2024-12-22'
-image: featured.jpg
+image: featured.webp
 author: "Our research group"
 categories: ["News"]
 ---

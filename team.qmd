@@ -32,6 +32,7 @@ listing:
 
 | Name               | Role / Type of Thesis               | Mentorship Role | University           |
 |--------------------|------------------------------------|-----------------|----------------------|
+| **Carolina Kessler** | Research Intern | Primary mentor | University of Bonn |
 | **Anne-Sophie Löwinger** | Dr. med. Thesis | Co-mentor | University of Bonn |
 
 
@@ -44,6 +45,7 @@ listing:
 
 | Name               | Role / Type of Thesis               | Mentorship Role | University           |
 |--------------------|------------------------------------|-----------------|----------------------|
+| **Jason Giger** | Dr. med. Thesis | Primary mentor | University of Basel |
 | **Jeannine Oertli** | Master Thesis | Primary mentor | University of Basel |
 | **Lara Kaiser** | Master Thesis         | Primary mentor | University of Basel |
 | **Sandrine Künzel** | Dr. med. Thesis | Co-mentor | University of Bonn |

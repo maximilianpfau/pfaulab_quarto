@@ -1,7 +1,7 @@
 ---
 title: "Kristin Raming"
 categories: "K. Pfau" 
-image: raming_kristin.jpg
+image: raming_kristin.webp
 about:
   template: trestles
 ---

@@ -1,0 +1,14 @@
+---
+title: "Marie Holzaht"
+categories: "K. Pfau"
+image: 20251014_P_Holzaht_Marie_RM_0579.webp
+about:
+  template: trestles
+---
+
+Marie Holzaht joined our group to work on a project about atrophy and its progression in Pseudoxanthoma elasticum (PXE). This project will serve as the basis for her doctoral degree (Dr. med.).
+
+## Education
+
+University of Bonn | Bonn, Germany
+Medical Degree (MD) | ongoing

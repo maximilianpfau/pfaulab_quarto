@@ -1,0 +1,10 @@
+---
+title: Elizabeth Holstein
+description: Department of Ophthalmology, University of Bonn
+categories: "M. Pfau"
+image: holstein_elizabeth.webp
+about:
+  template: trestles
+---
+
+Study Coordinator across all research protocols for our group.

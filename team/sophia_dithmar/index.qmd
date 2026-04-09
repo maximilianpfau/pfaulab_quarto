@@ -1,0 +1,10 @@
+---
+title: Sophia Dithmar
+description: Department of Ophthalmology, University of Bonn
+categories: "M. Pfau"
+image: dithmar_sophia.webp
+about:
+  template: trestles
+---
+
+Clinician-scientist track resident since 2026, focusing on the development and validation of novel visual function tests for age-related macular degeneration.

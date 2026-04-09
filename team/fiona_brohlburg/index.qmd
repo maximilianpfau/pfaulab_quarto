@@ -1,0 +1,10 @@
+---
+title: Fiona Brohlburg
+description: Department of Ophthalmology, University of Bonn
+categories: "M. Pfau"
+image: brohlburg_fiona.webp
+about:
+  template: trestles
+---
+
+Doctoral student since 2025, focusing on visual function assessments and structural imaging in autosomal-dominant *RHO*-retinitis pigmentosa.

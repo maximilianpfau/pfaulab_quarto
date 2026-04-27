@@ -1,0 +1,10 @@
+---
+title: Beatriz Rosa Leal Garcia
+description: Department of Ophthalmology, University of Bonn
+categories: "M. Pfau"
+image: Rosa_Leal_Garcia_Beatriz.webp
+about:
+  template: trestles
+---
+
+Beatriz Rosa Leal Garcia is a medical student and doctoral candidate (Dr. med.) at the University of Bonn, investigating systemic and ocular factors underlying slowed rod-mediated dark adaptation.

@@ -1,0 +1,10 @@
+---
+title: Fenia Dieckmann
+description: Department of Ophthalmology, University of Bonn
+categories: "M. Pfau"
+image: Dieckmann_Fenia.webp
+about:
+  template: trestles
+---
+
+Fenia Dieckmann is a medical student and doctoral candidate (Dr. med.) at the University of Bonn, investigating factors that affect the reliability and clinical interpretation of photoreceptor-specific perimetry under light- and dark-adapted conditions.

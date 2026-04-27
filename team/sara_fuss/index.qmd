@@ -1,0 +1,10 @@
+---
+title: Sara Fuss
+description: Department of Ophthalmology, University of Bonn
+categories: "M. Pfau"
+image: Sara_Fuss.webp
+about:
+  template: trestles
+---
+
+Study Coordinator across for AMD-focused research projects in our group.
